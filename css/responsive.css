@@ -1,0 +1,88 @@
+@media only screen and (max-width: 650px) {
+    .common_btn{
+        width: 250px;
+    }
+
+
+
+}
+
+@media only screen and (min-width:750px){
+
+    .single_service_box{
+        width: 23%;
+    }
+
+    .testimonial_box_image img{
+
+        margin-left: 30px!important;
+    }
+
+    .section_title p{
+        font-size: 16px;
+        font-weight: 400;
+    }
+
+
+
+
+}
+
+@media only screen and (max-width:850px){
+
+    .portfolio_single_box{
+        width: 100%;
+        margin-left: 5px;
+    }
+
+    .portfolio_single_box img{
+        width: 60%;
+    }
+
+
+}
+
+@media only screen and (max-width:950px) {
+    .header_top nav{
+        display: none;
+    }
+    #mobile_menu{
+        display: block;
+        float: right;
+        font-size: 30px;
+        color: #ffffff;
+    }
+
+    .single_box{
+        width: 45%;
+    }
+}
+
+
+
+@media only screen and (min-width: 1050px) {
+    .header_content h2 {
+        font-size: 30px;
+    }
+    .single_service_box{
+        width: 23%;
+    }
+
+}
+
+
+@media only screen and (max-width: 1250px) {
+    .single_team_box{
+        width: 45%;
+    }
+    .single_testimonial_box{
+        width: 100%;
+    }
+    .testimonial_box_image img{
+
+        margin-left: 50px;
+    }
+
+
+
+}
